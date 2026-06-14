@@ -16,7 +16,7 @@ We kept the environment minimal and lightweight by avoiding heavy configuration 
 
 ---
 
-## 🛠️ What We Have Done (Development Phases)
+## 🛠️ What I Have Done (Development Phases)
 
 1. **Folder Architecture Fix:** Successfully structured the directory so that core pages (`about`, `cart`, `products`, `test-drive`) live cleanly inside the Next.js `app/` router directory, while the global `context/` state folder remains modularly outside.
 2. **State Centralization:** Built a custom `CartProvider` using the React Context API to manage client-side state across independent sub-pages without prop-drilling.
