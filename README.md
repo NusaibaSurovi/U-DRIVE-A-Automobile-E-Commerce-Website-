@@ -1,4 +1,4 @@
-# 🏎️ U-DRIVE - E-Commerce Car Store
+# 🏎️ U-DRIVE - An Automobile E-Commerce Website
 
 Welcome to **U-DRIVE**, a sleek and lightweight automotive e-commerce web application. This project is built using modern web standard practices but styled manually to maintain a clean, human-crafted, and student-friendly codebase.
 
