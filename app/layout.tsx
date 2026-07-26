@@ -18,6 +18,7 @@ export default function RootLayout({ children }) {
                 <Link href="/products" style={{ color: '#ffe4e6', textDecoration: 'none', fontWeight: '500' }}>Cars</Link>
                 <Link href="/about" style={{ color: '#ffe4e6', textDecoration: 'none', fontWeight: '500' }}>About Us</Link>
                 <Link href="/test-drive" style={{ color: '#ffe4e6', textDecoration: 'none', fontWeight: '500' }}>Book Test Drive</Link>
+                <Link href="/playground" style={{ color: '#ffe4e6', textDecoration: 'none', fontWeight: '500' }}>Playground</Link>
                 <Link href="/cart" style={{ color: 'white', backgroundColor: '#6d28d9', padding: '7px 14px', borderRadius: '20px', textDecoration: 'none', fontWeight: 'bold', boxShadow: '0 2px 5px rgba(0,0,0,0.15)' }}>
                   My Cart 🛒
                 </Link>
